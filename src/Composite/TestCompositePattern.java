@@ -1,4 +1,4 @@
-package CompositePattern;
+package Composite;
 
 public class TestCompositePattern {
 
